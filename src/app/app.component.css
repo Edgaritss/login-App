@@ -1,0 +1,11 @@
+mat-toolbar{
+    justify-content: space-between;
+}
+
+.content{
+    padding: 32px;
+}
+
+.container{
+background-color: #F27F0C;
+}
